@@ -1,0 +1,310 @@
+@media only screen and (max-width: 1300px) {
+
+	.links_to_sections {
+		font-size: 17px;
+	}
+
+	.logo {
+		font-size: 2.4rem;
+	}
+
+	.call_request {
+		font-size: 21px;
+	}
+
+	.call_request_bigger {
+		font-size: 1.9rem;
+	}
+
+	.main_text {
+		font-size: 2.1rem;
+	}
+
+	.office_number {
+		font-size: 1.65rem;
+	}
+
+	.banner {
+		height: 93px;
+	}
+
+	.number_plus {
+		font-size: 25px;
+	}
+}
+
+@media only screen and (max-width: 1239px) {
+
+	.links_to_sections {
+		font-size: 16px;
+	}
+
+	.logo {
+		font-size: 2.3rem;
+	}
+
+	.call_request {
+		font-size: 20px;
+	}
+
+	.call_request_bigger {
+		font-size: 1.8rem;
+	}
+
+	.main_text {
+		font-size: 2rem;
+	}
+
+	.office_number {
+		font-size: 1.55rem;
+	}
+
+	.banner {
+		height: 90px;
+	}
+
+	.number_plus {
+		font-size: 24px;
+	}
+}
+
+@media only screen and (max-width: 1180px) {
+	p {
+		font-size: 15px;
+	}
+
+	.links_to_sections {
+		font-size: 15px;
+	}
+
+	.logo {
+		font-size: 2.2rem;
+	}
+
+	.call_request {
+		font-size: 19px;
+	}
+
+	.call_request_bigger {
+		font-size: 1.7rem;
+	}
+
+	.main_text {
+		font-size: 1.9rem;
+	}
+
+	.office_number {
+		font-size: 1.45rem;
+	}
+
+	.banner {
+		height: 88px;
+	}
+
+	.number_plus {
+		font-size: 23px;
+	}
+}
+
+@media only screen and (max-width: 1119px) {
+	p {
+		font-size: 14px;
+	}
+
+	.links_to_sections {
+		font-size: 14px;
+	}
+
+	.logo {
+		font-size: 2.1rem;
+	}
+
+	.call_request {
+		font-size: 18px;
+	}
+
+	.call_request_bigger {
+		font-size: 1.6rem;
+	}
+
+	.main_text {
+		font-size: 1.8rem;
+	}
+
+	.office_number {
+		font-size: 1.35rem;
+	}
+
+	.banner {
+		height: 85px;
+	}
+
+	.number_plus {
+		font-size: 22px;
+	}
+
+}
+
+@media only screen and (max-width: 1058px) {
+	p {
+		font-size: 13px;
+	}
+
+	.links_to_sections {
+		font-size: 13px;
+	}
+
+
+	.logo {
+		font-size: 2.0rem;
+	}
+
+	.call_request {
+		font-size: 17px;
+	}
+
+	.call_request_bigger {
+		font-size: 1.5rem;
+	}
+
+	.main_text {
+		font-size: 1.7rem;
+	}
+
+	.office_number {
+		font-size: 1.25rem;
+	}
+
+	.banner {
+		height: 83px;
+	}
+
+	.number_plus {
+		font-size: 21px;
+	}
+}
+
+@media only screen and (max-width: 998px) {
+	p {
+		font-size: 12px;
+	}
+
+	.links_to_sections {
+		font-size: 12px;
+	}
+
+	.logo {
+		font-size: 1.9rem;
+	}
+
+	.call_request {
+		font-size: 16px;
+	}
+
+	.call_request_bigger {
+		font-size: 1.4rem;
+	}
+
+	.main_text {
+		font-size: 1.6rem;
+	}
+
+	.office_number {
+		font-size: 1.15rem;
+	}
+
+	.banner {
+		height: 80px;
+	}
+
+	.number_plus {
+		font-size: 20px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	#numbers {
+		height: auto;
+	}
+
+	.carousel-indicators {
+		display: none;
+	}
+
+	.carousel-caption {
+		top: 20%;
+	}
+}
+
+@media only screen and (max-width: 599px) {
+	.carousel-caption {
+		top: 25%;
+	}
+
+	.main_text {
+		font-size: 1.4rem;
+	}
+
+	.mobile {
+		display: block!important;
+	}
+
+	.desktop {
+		display: none!important;
+	}
+    
+    .logo {
+    	font-size: 1.8rem;
+    }
+}
+
+@media only screen and (max-width: 508px) {
+
+	.main_text {
+		font-size: 1.3rem;
+	}
+}
+
+@media only screen and (max-width: 474px) {
+
+	.main_text {
+		font-size: 1.2rem;
+	}
+	
+	.call_request {
+		font-size: 1.2rem;
+	}
+
+	.call_request_bigger {
+		font-size: 1.2rem;
+	}
+}
+
+@media only screen and (max-width: 420px) {
+
+	.main_text {
+		font-size: 1.2rem;
+	}
+
+	.call_request {
+		font-size: 0.8rem;
+	}
+
+	.call_request_bigger {
+		font-size: 0.8rem;
+	}
+}
+
+@media only screen and (max-width: 283px) {
+	.carousel-caption {
+		top: 10%;
+	}
+
+	.call_request {
+		font-size: 0.6rem;
+	}
+
+	.call_request_bigger {
+		font-size: 0.6rem;
+	}
+}

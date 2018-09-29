@@ -1,0 +1,112 @@
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+	font-family: Impact, 'RobotoLight', Helvetica, Arial, sans-serif;
+	color: #2b2b2b;
+}
+
+p {
+	font-family: 'RobotoRegular';
+	font-size: 16px;
+	color: #2b2b2b;
+}
+
+.header {
+	height: 98px;
+	background: #fff;
+  	z-index: 2;
+}
+
+.logo {
+	font-family: Impact;
+	font-size: 2.5rem;
+}
+
+.office_number {
+	font-family: Impact;
+	font-size: 1.75rem;
+}
+
+.call_request {
+	border-radius: 0;
+	width: max-content;
+	background: #2b2b2b;
+	font-family: Impact;
+	font-size: 22px;
+}
+
+.call_request_bigger {
+	border-radius: 0;
+	width: max-content;
+	background: #2b2b2b;
+	font-family: Impact;
+	font-size: 2rem;
+}
+
+.yakor:hover {
+	text-decoration: none;
+}
+
+.carousel-caption {
+	top: 25%;
+}
+
+.main_text {
+	font-size: 2.2rem;
+}
+
+.main_text_bg {
+	display: inline-block;
+	background: #fff;
+	color: #2b2b2b;
+	padding: 10px;
+	border: 1px solid #e9e9e9;
+	border-radius: 5px;
+}
+
+.links_to_sections {
+	font-family: 'RobotoRegular';
+	font-size: 18px;
+}
+
+.links_to_sections:hover {
+	color: #fff;
+	background: #2b2b2b;
+}
+
+#numbers {
+	background: #e9e9e9;
+	height: 100px;
+}
+
+.number_plus {
+	font-family: Impact;
+	font-size: 26px;
+}
+
+#advantages {
+	background: #fff;
+}
+
+.adv-img {
+	height: 220px;
+}
+
+#order {
+	background: #e9e9e9;
+}
+
+#partners {
+	background: #fff;
+}
+
+#hot_products {
+	background: #e9e9e9;
+}
+
+.mobile {
+	display: none!important;
+}
+
+.modal-dialog {
+	top:20%;
+}
