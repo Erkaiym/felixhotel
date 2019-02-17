@@ -368,7 +368,7 @@
                     {% for product in products %}
                         <div class="col-md-6 col-lg-4 mb-5">
                             <a data-fancybox="gallery" href="{{ MEDIA_URL }}{{ product.image }}">
-						        <img class="my-auto" src="{{ MEDIA_URL }}{{ product.image }}" width="180" height="auto"/>
+						        <img class="my-auto mx-auto d-block" src="{{ MEDIA_URL }}{{ product.image }}" width="180" height="auto"/>
                             </a>
 					    </div>
                     {% endfor %}
