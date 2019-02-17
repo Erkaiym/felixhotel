@@ -99,7 +99,7 @@ p {
 	background: #fff;
 }
 
-#hot_products {
+#hot_products, #reviews, #recommendations {
 	background: #e9e9e9;
 }
 
@@ -107,6 +107,29 @@ p {
 	display: none!important;
 }
 
-.modal-dialog {
+.modal-dialog1 {
 	top:20%;
+}
+
+.reviews {
+	font-family: 'RobotoLight', sans-serif;
+	font-style: italic;
+}
+
+.review-picture {
+	height: 130px;
+}
+
+.recomendation-picture {
+	width: 150px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+}
+
+.text-roboto-light {
+	font-family: 'RobotoLight', sans-serif;
+	font-size: 1.2rem;
 }

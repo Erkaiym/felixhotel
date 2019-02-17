@@ -308,3 +308,27 @@
 		font-size: 0.6rem;
 	}
 }
+
+@media only screen and (max-width: 1400px) {
+	.review-picture {
+		height: 100px;
+	}
+}
+
+@media only screen and (max-width: 899px) {
+	.recomendation-picture {
+		width: 250px;
+	}
+}
+
+@media only screen and (max-width: 700px) {
+	.review-picture {
+		height: 80px;
+	}
+}
+
+@media only screen and (max-width: 899px) {
+	.recomendation-picture {
+		width: 150px;
+	}
+}

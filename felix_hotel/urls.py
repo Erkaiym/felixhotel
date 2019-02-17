@@ -23,6 +23,7 @@ urlpatterns = [
     path('manager/', admin.site.urls),
     path('', views.main_page_view, name="main_page"),
     path('send_email/', views.send_email, name="send_email"),
+    path('send_review/', views.send_review, name="send-review"),
 ]
 
 if settings.DEBUG:
